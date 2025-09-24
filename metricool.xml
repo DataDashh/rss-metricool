@@ -3,24 +3,26 @@
   <channel>
     <title><![CDATA[Feed generado por n8n]]></title>
     <link>https://midominio.com</link>
-    <description><![CDATA[Contenido dinámico de prueba]]></description>
+    <description><![CDATA[Contenido dinámico actualizado]]></description>
     <language>es-MX</language>
     <copyright>2025 Mi Marca</copyright>
+    
+ <item>
+   <title><![CDATA[Nuevo Post #1]]></title>
+   <link>https://midominio.com/nuevo-1</link>
+   <guid isPermaLink="true">https://midominio.com/nuevo-1</guid>
+   <pubDate>Wed, 24 Sep 2025 16:46:56 GMT</pubDate>
+   <description><![CDATA[Descripción actualizada del post 1]]></description>
+ </item>
 
-    <item>
-      <title><![CDATA[Post de prueba #1]]></title>
-      <link>https://midominio.com/post-prueba-1</link>
-      <guid isPermaLink="true">https://midominio.com/post-prueba-1</guid>
-      <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
-      <description><![CDATA[Este es el primer post de prueba]]></description>
-    </item>
 
-    <item>
-      <title><![CDATA[Post de prueba #2]]></title>
-      <link>https://midominio.com/post-prueba-2</link>
-      <guid isPermaLink="true">https://midominio.com/post-prueba-2</guid>
-      <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
-      <description><![CDATA[Este es el segundo post de prueba]]></description>
-    </item>
+ <item>
+   <title><![CDATA[Nuevo Post #2]]></title>
+   <link>https://midominio.com/nuevo-2</link>
+   <guid isPermaLink="true">https://midominio.com/nuevo-2</guid>
+   <pubDate>Wed, 24 Sep 2025 16:46:56 GMT</pubDate>
+   <description><![CDATA[Descripción actualizada del post 2]]></description>
+ </item>
+
   </channel>
 </rss>
