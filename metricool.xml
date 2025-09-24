@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Feed generado por n8n]]></title>
+    <link>https://midominio.com</link>
+    <description><![CDATA[Contenido dinámico de prueba]]></description>
+    <language>es-MX</language>
+    <copyright>2025 Mi Marca</copyright>
+
+    <item>
+      <title><![CDATA[Post de prueba #1]]></title>
+      <link>https://midominio.com/post-prueba-1</link>
+      <guid isPermaLink="true">https://midominio.com/post-prueba-1</guid>
+      <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
+      <description><![CDATA[Este es el primer post de prueba]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Post de prueba #2]]></title>
+      <link>https://midominio.com/post-prueba-2</link>
+      <guid isPermaLink="true">https://midominio.com/post-prueba-2</guid>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
+      <description><![CDATA[Este es el segundo post de prueba]]></description>
+    </item>
+  </channel>
+</rss>
