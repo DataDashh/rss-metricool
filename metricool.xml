@@ -2,21 +2,21 @@
 <rss version="2.0">
   <channel>
     <title><![CDATA[Feed generado por n8n]]></title>
-    <link>https://pexels.com/rss/</link>
+    <link>https://midominio.com/posts/</link>
     <description><![CDATA[Contenido dinámico actualizado con posts de IA]]></description>
     <language>es-MX</language>
     <copyright>2025 Mi Marca</copyright>
 
   <item>
-    <title><![CDATA[Prueba 7...]]></title>
-    <link>https://pexels.com/rss/post-1.html</link>
-    <guid isPermaLink="true">https://midominio.com/rss/post-1.html</guid>
-    <pubDate>Thu, 25 Sep 2025 18:41:49 GMT</pubDate>
-    <description><![CDATA[Prueba 7
+    <title><![CDATA[Prueba 8...]]></title>
+    <link>https://midominio.com/posts/post-1.html</link>
+    <guid isPermaLink="true">https://midominio.com/posts/post-1.html</guid>
+    <pubDate>Thu, 25 Sep 2025 18:48:00 GMT</pubDate>
+    <description><![CDATA[Prueba 8
 
 Prompt Visual: ]]></description>
 
-    <!-- Enclosure clásico (para validadores RSS) -->
+    <!-- Enclosure clásico -->
     <enclosure url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg" type="image/jpeg" />
   </item>
 
