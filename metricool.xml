@@ -8,13 +8,15 @@
     <copyright>2025 Mi Marca</copyright>
 
   <item>
-    <title><![CDATA[...]]></title>
+    <title><![CDATA[Prueba 2...]]></title>
     <link>https://midominio.com/post-1</link>
     <guid isPermaLink="true">https://midominio.com/post-1</guid>
-    <pubDate>Thu, 25 Sep 2025 18:15:26 GMT</pubDate>
-    <description><![CDATA[]]></description>
-    <media:content url="" type="image/jpeg" medium="image"/>
-    <media:thumbnail url="" />
+    <pubDate>Thu, 25 Sep 2025 18:18:07 GMT</pubDate>
+    <description><![CDATA[Prueba 2
+
+Prompt Visual: ]]></description>
+    <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" type="image/jpeg" medium="image"/>
+    <media:thumbnail url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" />
   </item>
 
   </channel>
