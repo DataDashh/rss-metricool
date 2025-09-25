@@ -2,91 +2,25 @@
 <rss version="2.0">
   <channel>
     <title><![CDATA[Feed generado por n8n]]></title>
-    <link>https://datadash.com.mx</link>
-    <description><![CDATA[Contenido dinámico actualizado con posts de IA]]></description>
+    <link>https://midominio.com</link>
+    <description><![CDATA[Contenido dinámico de prueba]]></description>
     <language>es-MX</language>
-    <copyright>2025 DataDash</copyright>
-    
-  <item>
-    <title><![CDATA[¿Quieres que tu equipo rinda más sin trabajar hora...]]></title>
-    <link>https://datadash.com.mx</link>
-    <guid isPermaLink="true">https://datadash.com.mx</guid>
-    <pubDate>Wed, 24 Sep 2025 19:21:17 GMT</pubDate>
-    <description><![CDATA[¿Quieres que tu equipo rinda más sin trabajar horas extra? Las 15 mejores herramientas de IA para 2025 prometen revolucionar la productividad en áreas como ventas, contabilidad y proyectos. Desde asistentes para tomar notas hasta generadores de contenido, estas herramientas pueden ayudarte a automatizar tareas repetitivas y enfocarte en lo que realmente importa.  
+    <copyright>2025 Mi Marca</copyright>
 
-Fuente: https://www.flowlu.com/es/blog/productivity/best-ai-productivity-tools/  
-¿Ya conocías estas opciones? Guarda este post para no olvidarlo.  
+    <item>
+      <title><![CDATA[Post de prueba #1]]></title>
+      <link>https://midominio.com/post-prueba-1</link>
+      <guid isPermaLink="true">https://midominio.com/post-prueba-1</guid>
+      <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
+      <description><![CDATA[Este es el primer post de prueba]]></description>
+    </item>
 
-#InteligenciaArtificial #Automatización #DataDash
-
-Prompt Visual: Formato: carrusel  
-Prompt: Diseño moderno con fondo blanco y detalles en azul y naranja, iconos representativos de IA y productividad, tarjetas resaltando cada herramienta con texto claro y botones para guardar, tipografía minimalista.]]></description>
-  </item>
-
-
-  <item>
-    <title><![CDATA[¿Sabías que las herramientas de IA están revolucio...]]></title>
-    <link>https://datadash.com.mx</link>
-    <guid isPermaLink="true">https://datadash.com.mx</guid>
-    <pubDate>Wed, 24 Sep 2025 19:21:17 GMT</pubDate>
-    <description><![CDATA[¿Sabías que las herramientas de IA están revolucionando la forma de manejar ventas, inventarios y proyectos en las empresas? 🚀
-
-En 2025, conviven plataformas consolidadas con nuevas propuestas que crecen muy rápido. Conocer estas 10 herramientas más usadas y 5 en auge puede ayudarte a optimizar tus procesos y mantener tu negocio al día.
-
-Fuente: https://openwebinars.net/blog/inteligencia-artificial/  
-¿Ya conoces alguna? Guarda este post para no perderle la pista.  
-
-#InteligenciaArtificial #Automatización #DataDash
-
-Prompt Visual: Formato: carrusel  
-Prompt: Diseño moderno con fondo blanco y detalles en azul y naranja, cada slide muestra íconos tecnológicos, gráficos sencillos y listas destacadas de herramientas IA, texto claro y llamativo para facilitar lectura rápida.]]></description>
-  </item>
-
-
-  <item>
-    <title><![CDATA[¿Sabías que la IA puede transformar desde tus vent...]]></title>
-    <link>https://datadash.com.mx</link>
-    <guid isPermaLink="true">https://datadash.com.mx</guid>
-    <pubDate>Wed, 24 Sep 2025 19:21:17 GMT</pubDate>
-    <description><![CDATA[¿Sabías que la IA puede transformar desde tus ventas hasta la gestión de proyectos? 🤖💼
-
-Te compartimos las 40 mejores herramientas de IA para 2025, desde asistentes como ChatGPT y Gemini, hasta generación de video e imágenes con Synthesia y Midjourney. Ideal para inspirar cómo automatizar y optimizar tus procesos empresariales.
-
-Fuente: https://www.synthesia.io/es/post/herramientas-de-ia  
-¿Ya conocías estas opciones? Guarda este post para no olvidarlo.  
-
-#InteligenciaArtificial #Automatización #DataDash
-
-Prompt Visual: Formato: carrusel  
-Prompt: Diseño moderno con fondo blanco y acentos en azul y naranja; cada slide presenta una herramienta IA con íconos representativos, texto claro y destacados visuales para optimizar y automatizar procesos empresariales.]]></description>
-  </item>
-
-
-  <item>
-    <title><![CDATA[¿Sabías que la inteligencia artificial puede revol...]]></title>
-    <link>https://datadash.com.mx</link>
-    <guid isPermaLink="true">https://datadash.com.mx</guid>
-    <pubDate>Wed, 24 Sep 2025 19:21:17 GMT</pubDate>
-    <description><![CDATA[¿Sabías que la inteligencia artificial puede revolucionar desde tus ventas hasta la gestión de proyectos? La IA es un conjunto de algoritmos que imitan capacidades humanas para automatizar tareas y tomar decisiones más rápidas. Esto significa menos trabajo manual y más precisión en tus procesos empresariales. Fuente: https://es.wikipedia.org/wiki/Inteligencia_artificial ¿Ya la estás usando en tu negocio? #InteligenciaArtificial #Automatización #DataDash
-
-Prompt Visual: Formato: carrusel  
-Prompt: Diseño moderno con fondo blanco y azul, tipografía clara. Cada slide explica un beneficio: automatización, precisión, ahorro de tiempo, con íconos futuristas y gráficos simples representando IA en negocios.]]></description>
-  </item>
-
-
-  <item>
-    <title><![CDATA[¿Quieres que tu negocio aproveche la inteligencia ...]]></title>
-    <link>https://datadash.com.mx</link>
-    <guid isPermaLink="true">https://datadash.com.mx</guid>
-    <pubDate>Wed, 24 Sep 2025 19:21:17 GMT</pubDate>
-    <description><![CDATA[¿Quieres que tu negocio aproveche la inteligencia artificial al máximo en 2025? ITSitio revela las 10 aplicaciones de IA más potentes y útiles que están revolucionando desde ventas hasta gestión de proyectos. Conocer estas herramientas te puede ayudar a automatizar procesos y tomar mejores decisiones. Fuente: https://www.itsitio.com/inteligencia-artificial/10-mejores-aplicaciones-inteligencia-artificial-2025/  
-¿Ya conocías estas tendencias? Guarda este post para no perderlas.  
-
-#InteligenciaArtificial #Automatización #DataDash
-
-Prompt Visual: Formato: carrusel  
-Prompt: Diseño moderno en tonos azul y naranja, fondo limpio con iconos tecnológicos y de IA. Cada diapositiva muestra una aplicación clave con texto breve y gráficos minimalistas para destacar beneficios y uso empresarial.]]></description>
-  </item>
-
+    <item>
+      <title><![CDATA[Post de prueba #2]]></title>
+      <link>https://midominio.com/post-prueba-2</link>
+      <guid isPermaLink="true">https://midominio.com/post-prueba-2</guid>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
+      <description><![CDATA[Este es el segundo post de prueba]]></description>
+    </item>
   </channel>
 </rss>
