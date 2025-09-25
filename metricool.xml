@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0">
   <channel>
     <title><![CDATA[Feed generado por n8n]]></title>
     <link>https://midominio.com</link>
@@ -9,35 +8,15 @@
     <copyright>2025 Mi Marca</copyright>
 
   <item>
-    <title><![CDATA[Prueba 3...]]></title>
+    <title><![CDATA[Prueba 4...]]></title>
     <link>https://midominio.com/post-1</link>
     <guid isPermaLink="true">https://midominio.com/post-1</guid>
-    <pubDate>Thu, 25 Sep 2025 18:24:23 GMT</pubDate>
-    
-    <!-- Descripción con imagen inline -->
-    <description><![CDATA[
-      <p><img src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" alt="Imagen del post" /></p>
-      <p>Prueba 3
+    <pubDate>Thu, 25 Sep 2025 18:30:53 GMT</pubDate>
+    <description><![CDATA[Prueba 4
 
-Prompt Visual: </p>
-    ]]></description>
-    
-    <!-- Enclosure (RSS clásico) -->
+Prompt Visual: ]]></description>
+
     <enclosure url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" type="image/jpeg" />
-    
-    <!-- Media RSS (Yahoo MRSS estándar) -->
-    <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" type="image/jpeg" medium="image" />
-    <media:thumbnail url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" />
-    
-    <!-- Opciones extra usadas por algunos parsers -->
-    <image>https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940</image>
-    <media:group>
-      <media:title><![CDATA[Prueba 3...]]></media:title>
-      <media:description><![CDATA[Prueba 3
-
-Prompt Visual: ]]></media:description>
-      <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" medium="image" type="image/jpeg" />
-    </media:group>
   </item>
 
   </channel>
