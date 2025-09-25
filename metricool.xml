@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" 
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title><![CDATA[Feed generado por n8n]]></title>
     <link>https://midominio.com</link>
@@ -11,12 +12,32 @@
     <title><![CDATA[Prueba 2...]]></title>
     <link>https://midominio.com/post-1</link>
     <guid isPermaLink="true">https://midominio.com/post-1</guid>
-    <pubDate>Thu, 25 Sep 2025 18:19:48 GMT</pubDate>
-    <description><![CDATA[Prueba 2
+    <pubDate>Thu, 25 Sep 2025 18:24:12 GMT</pubDate>
+    
+    <!-- Descripción con imagen inline -->
+    <description><![CDATA[
+      <p><img src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" alt="Imagen del post" /></p>
+      <p>Prueba 2
 
-Prompt Visual: ]]></description>
-    <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" type="image/jpeg" medium="image"/>
+Prompt Visual: </p>
+    ]]></description>
+    
+    <!-- Enclosure (RSS clásico) -->
+    <enclosure url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" type="image/jpeg" />
+    
+    <!-- Media RSS (Yahoo MRSS estándar) -->
+    <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" type="image/jpeg" medium="image" />
     <media:thumbnail url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" />
+    
+    <!-- Opciones extra usadas por algunos parsers -->
+    <image>https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940</image>
+    <media:group>
+      <media:title><![CDATA[Prueba 2...]]></media:title>
+      <media:description><![CDATA[Prueba 2
+
+Prompt Visual: ]]></media:description>
+      <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" medium="image" type="image/jpeg" />
+    </media:group>
   </item>
 
   </channel>
