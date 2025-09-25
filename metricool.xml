@@ -9,15 +9,15 @@
     <copyright>2025 Mi Marca</copyright>
 
   <item>
-    <title><![CDATA[Prueba 2...]]></title>
+    <title><![CDATA[Prueba 3...]]></title>
     <link>https://midominio.com/post-1</link>
     <guid isPermaLink="true">https://midominio.com/post-1</guid>
-    <pubDate>Thu, 25 Sep 2025 18:24:12 GMT</pubDate>
+    <pubDate>Thu, 25 Sep 2025 18:24:23 GMT</pubDate>
     
     <!-- Descripción con imagen inline -->
     <description><![CDATA[
       <p><img src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" alt="Imagen del post" /></p>
-      <p>Prueba 2
+      <p>Prueba 3
 
 Prompt Visual: </p>
     ]]></description>
@@ -32,8 +32,8 @@ Prompt Visual: </p>
     <!-- Opciones extra usadas por algunos parsers -->
     <image>https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940</image>
     <media:group>
-      <media:title><![CDATA[Prueba 2...]]></media:title>
-      <media:description><![CDATA[Prueba 2
+      <media:title><![CDATA[Prueba 3...]]></media:title>
+      <media:description><![CDATA[Prueba 3
 
 Prompt Visual: ]]></media:description>
       <media:content url="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" medium="image" type="image/jpeg" />
