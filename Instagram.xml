@@ -1,1 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Feed generado por n8n]]></title>
+    <link>https://midominio.com</link>
+    <description><![CDATA[Contenido dinámico actualizado con posts de IA]]></description>
+    <language>es-MX</language>
+    <copyright>2025 Mi Marca</copyright>
 
+    <item>
+      <title><![CDATA[¿Sabías que una start-up de inteligencia artificia...]]></title>
+      <link>https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg</link>
+      <guid isPermaLink="true">https://midominio.com/post-1-largex2</guid>
+      <pubDate>Thu, 02 Oct 2025 16:47:47 GMT</pubDate>
+      <description><![CDATA[¿Sabías que una start-up de inteligencia artificial ya vale más que SpaceX? OpenAI alcanzó 500,000 millones de dólares, mostrando el poder que la IA tiene para transformar negocios.  
+
+Esto nos demuestra que integrar IA en ventas, inventarios o proyectos puede ser un cambio de juego para tu empresa.  
+
+Fuente: https://elpais.com/noticias/inteligencia-artificial/  
+¿Quieres saber cómo aprovecharla? Guarda este post y contáctanos.  
+
+#InteligenciaArtificial #Automatización #DataDash  
+
+✨ Anything is possible.  
+
+📅 Agenda aquí: https://www.datadash.com.mx/]]></description>
+    </item>
+  
+  </channel>
+</rss>
